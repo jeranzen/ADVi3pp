@@ -85,7 +85,7 @@
 //
 // Temperature Sensors
 //
-#define TEMP_0_PIN              1  // PF1 / A1   Analog
+#define TEMP_0_PIN              2  // PF1 / A1   Analog - changed from A1 to A2 which is pin 2 of the EXT connector. it seems the A1 pin is fried. The thermistor is now connected to pin 2 of the EXT connector (This was originally 1 not 56)
 #define TEMP_BED_PIN           14  // PK6 / A14  Analog
 
 //

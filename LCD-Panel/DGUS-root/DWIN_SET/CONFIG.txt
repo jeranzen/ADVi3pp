@@ -1,11 +1,12 @@
-R0=00
-R1=07
-R2=0D
-R3=5A
-R4=00
-R5=99
-R6=40
-R7=10
-R8=FF
-R9=00
-RA=A5
+R1=07      ;Band Rate,07=115200
+R2=0D      ;Sys_CFG
+R3=5A      ;
+R5=99      ;
+R6=40      ;
+R7=10      ;
+R8=FF      ;
+R9=00      ;
+RA=A5      ;
+RC=00      ;
+STOP_DWIN_OS;
+
